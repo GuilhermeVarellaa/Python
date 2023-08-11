@@ -1,0 +1,8 @@
+{
+  "username": "login",
+  "password": "senha",
+  "server": "oracle.fiap.com.br",
+  "port": "1521",
+  "dbname": "ORCL",
+  "oracle_client_path": "C:\\Program Files (x86)\\instantclient_21_10"
+}
